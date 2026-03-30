@@ -107,4 +107,4 @@ python src/main.py
 
 ## 👨‍💻 Author
 
-Aanchal rathi
+Aanchal Rathi
